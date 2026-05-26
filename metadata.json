@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Al Qwas Al Zahabai ERP",
+  "description": "Premium futuristic Mobile Showroom Management Dashboard \u0026 ERP Software with Advanced IMEI Security, Billing, and stock validation for Dubai businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
